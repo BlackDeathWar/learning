@@ -11,8 +11,7 @@
 // >=
 // <=
 
-// 0 = false
-// ay rkam 8ar zero = true
+// surprise mother fukers
 
 // and
 // 1 0 = 0
